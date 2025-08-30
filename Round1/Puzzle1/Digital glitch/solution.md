@@ -1,17 +1,13 @@
 # Digital glitch
-##1.Shifted Glitch Cipher 
+## 1.Shifted Glitch Cipher 
 
-UIX#IKKMAA!BZIKM 
+`UIX#IKKMAA!BZIKM` 
 
-Scrambled Message (Caesar + Glitch) 
+`Scrambled Message (Caesar + Glitch)`
 
 Hints to Players: 
 
-Remove glitch characters: #, !. 
-
-The AI used a Caesar shift of 11 (greater than 7). Shift letters back to decode. 
-
-After decoding, pick the first letter of the three core words (highlighted on printout or visually emphasized in the log) to form the code. 
+`Remove glitch characters: #, !.`
 
 Shape 
 
@@ -41,17 +37,15 @@ T → TRACE
 
 ✅ Final Code: MAT 
 
-##2. Extraction cipher 
+## 2. Extraction cipher 
 
- 
-
-A@L3E*R!T2E#R1S 
+`A@L3E*R!T2E#R1S`
 
 Rules / Hints: 
 
-Ignore all special characters (@, *, !, #) 
+1. Ignore all special characters (@, *, !, #) 
 
-Numbers indicate positions of letters to extract from the cleaned string 
+2. Numbers indicate positions of letters to extract from the cleaned string 
 
 Step-by-Step Solution: 
 
